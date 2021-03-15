@@ -18,5 +18,6 @@ public class SampleTest {
 	@Test
 	public void opporTest(){
 		System.out.println("opp test");
+		System.out.println("lead test");	
 	}
 }
